@@ -58,4 +58,4 @@ This project uses the Fake Store API.
 
 ## 🌐 Live Demo
 
-You can view a live, hosted version of this project here: 
+You can view a live, hosted version of this project here: https://ecommerce-beige-seven.vercel.app/
